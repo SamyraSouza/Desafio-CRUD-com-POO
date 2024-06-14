@@ -1,0 +1,8 @@
+{
+    "name":"livraria/livros",
+    "autoload": {
+        "psr-4": {
+            "App\\":"app/"
+        }
+    }
+}
